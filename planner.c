@@ -32,7 +32,7 @@
 #include "protocol.h"
 
 #ifndef ROTARY_FIX
-#define ROTARY_FIX 0
+#define ROTARY_FIX 1
 #endif
 
 #if ENABLE_BACKLASH_COMPENSATION
